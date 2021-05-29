@@ -1,1 +1,63 @@
 /* Inserta tu codigo aqui */
+
+.container {
+    background-color: #FFFFFF;
+}
+
+.fondo-verde{
+    background-image: url(../img/fondo.jpg);
+}
+.fondo-gris{
+    background-image: url(../img/fondo2.jpg);
+}
+.logo{
+    width:150px;
+    margin-left: 100px;
+}
+
+.barra{
+    margin-top: 50px;
+}
+
+.redes-sociales{
+    width: 35px;
+    height: auto;
+
+}
+.foto-semilla > img{
+	width: 1296px;
+	height: 700px;
+	object-fit: cover;
+}
+.icono{
+    width: 35px;
+    height: auto;
+    
+}
+
+.servicios{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.imagen-proyectos{
+    width: 500px;
+    height: 400px;
+    margin: 20px 20px 20px 20px;
+}
+
+.iconos-equipo{
+   margin-bottom: 20px; 
+}
+.facebook-imagen{
+    height: 200px;
+}
+
+.icono-chico{
+    vertical-align: top;
+    display: inline-block;  
+}
+
+.metodologia{
+    --bs-gutter-x: 0;
+}

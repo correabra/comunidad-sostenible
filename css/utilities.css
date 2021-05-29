@@ -1,4 +1,4 @@
-/*Global*/
+
 *{
 	font-family: "OpenSans-Light" Helvetica;
 }
@@ -70,9 +70,9 @@
 	text-decoration: none;
 }
 .bg-gray{
-	background-color: #F2F2F2;
+	background-color:  #ddd8d8;
 }
-.bg-green{
+.proyectos{
 	background-color: #5E8039;
 }
 .bg-black{
